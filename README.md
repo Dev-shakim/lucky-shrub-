@@ -41,4 +41,3 @@ Contributions to improve and enhance the Lucky Shrub website are welcome. If you
 Thank you for your interest in the Lucky Shrub project!
 
 # Created by Shakim Eatmon
-<<<<<<< HEAD
